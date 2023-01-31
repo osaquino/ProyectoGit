@@ -1,2 +1,0 @@
-# ProyectoGit
-Ejercicio proyecto
